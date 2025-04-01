@@ -1,5 +1,6 @@
 # mi-primer-repositorio💻  
 ## Trabajo practico nr 2✍️ 
+## Trabajo colaborativo  
 ## actividad 1
 ## actividad 2   
 Comision 12  
